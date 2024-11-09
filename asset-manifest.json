@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//.github.io/TextApp/static/css/main.f855e6bc.css",
+    "main.js": "//.github.io/TextApp/static/js/main.aed2cf6e.js",
+    "static/js/453.428ca2da.chunk.js": "//.github.io/TextApp/static/js/453.428ca2da.chunk.js",
+    "static/media/android-chrome-192x192.png": "//.github.io/TextApp/static/media/android-chrome-192x192.1229f240aafcb0725c15.png",
+    "index.html": "//.github.io/TextApp/index.html",
+    "main.f855e6bc.css.map": "//.github.io/TextApp/static/css/main.f855e6bc.css.map",
+    "main.aed2cf6e.js.map": "//.github.io/TextApp/static/js/main.aed2cf6e.js.map",
+    "453.428ca2da.chunk.js.map": "//.github.io/TextApp/static/js/453.428ca2da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.aed2cf6e.js"
+  ]
+}
